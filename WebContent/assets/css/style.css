@@ -954,6 +954,21 @@ input::-ms-input-placeholder {
 
 }
 
+.font_table_header {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color:black;
+}
+
+.font_table_body {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    height: 40px;
+    color:black;
+}
+
 
 
 
